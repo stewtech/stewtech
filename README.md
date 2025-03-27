@@ -38,12 +38,6 @@ Entity Framework Core & Dapper (ORM)
 
 MS SQL for database management
 
-🌟 My Projects
-
-🚀 My Biggest Project to Date:
-
-🔗 Interwebs Development
-
 🛠️ Skills
 
 Languages & Frameworks: C#, Java, JavaScript, PHP, HTML5, CSS3, React, Angular, .NET
@@ -60,7 +54,7 @@ Security & Authentication: ASP.NET Core Identity, Role-Based Authorization
 
 📫 Let's Connect!
 
-💼 LinkedIn: Your LinkedIn Profile🌐 Portfolio: Your Portfolio (if available)
+💼 LinkedIn: 🌐 Portfolio: 
 
 
   
