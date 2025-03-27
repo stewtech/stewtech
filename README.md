@@ -14,7 +14,7 @@ I started my coding journey as a software developer student with a passion to le
 * I am also working on learning .Net Blazor UI using razor code for the frontend and Swagger for testing, EF core functionality as well as Dapper for ORM and MS SQL for a database.
 
 
-* I am building an .NET 8 ASP.NET CORE MVC web app Blog that will involve the following:
+* I am building a .NET 8 ASP.NET CORE MVC web app Blog that will involve the following:
 
 Overview of the Blog Application:
 
