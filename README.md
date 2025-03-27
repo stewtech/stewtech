@@ -6,8 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer. Technologist
 -----------------------
 
-Hi, 
-
 🚀 About Me
 
 I started my coding journey as a software development student with a passion for learning everything I could about the programming world. Initially, I explored PHP, but soon developed a deep appreciation for C# and ASP.NET.
