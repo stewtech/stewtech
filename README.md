@@ -28,8 +28,6 @@ Version Control & Tools: Git, GitHub, Webpack, Vite
 
 Security & Authentication: ASP.NET Core Identity, Role-Based Authorization
 
-🌟 My Projects
-
 🚀 My Biggest Project to Date:
 
 🔗 https://interwebsdevelopment.com/
