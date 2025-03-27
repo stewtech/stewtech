@@ -6,52 +6,64 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer. Technologist
 -----------------------
 
-I started my coding journey as a software developer student with a passion to learn everything I could about this programming world. After beginning my journey into the coding world with PHP, I soon would start to love C# and Asp.Net. For my capstone project in college, we choose to use C#, Asp.Net, .Net 6 with the MVVM design pattern to make a sub delivery website. I was the project manager and a developer for that project.
+Hi, I'm Cecil Stewart! 👋
 
-* 🧠  I'm currently learning Frontend web development (HTML5, CSS3, Bootstrap, JavaScript ECMA versions ES5-ES14, Jquery, Ajax, React, Angular and Webpack & Vite) including web design with Figma.
+🚀 About Me
 
+I started my coding journey as a software development student with a passion for learning everything I could about the programming world. Initially, I explored PHP, but soon developed a deep appreciation for C# and ASP.NET.
 
-* I am also working on learning .Net Blazor UI using razor code for the frontend and Swagger for testing, EF core functionality as well as Dapper for ORM and MS SQL for a database.
+For my capstone project in college, my team and I built a sub delivery website using C#, ASP.NET, .NET 6, and the MVVM design pattern. I took on the role of Project Manager and Developer, overseeing both technical and organizational aspects of the project.
 
+🔥 What I'm Learning
 
-* I am building a .NET 8 ASP.NET CORE MVC web app Blog that will involve the following:
+I'm currently expanding my expertise in:
 
-Overview of the Blog Application:
+Frontend Web Development:
 
-The blog application is designed to offer a platform where users can create, manage, and interact with blog posts. Key features typically include:​
+HTML5, CSS3, Bootstrap
 
-User Authentication and Authorization: Implementing secure user registration and login functionalities using ASP.NET Core Identity.​
+JavaScript (ES5-ES14), jQuery, Ajax
 
-Post Management: Enabling users to perform CRUD operations on blog posts, including creating new posts, reading existing ones, updating content, and deleting posts when necessary.​
+React, Angular
 
-Commenting System: Allowing users to add comments to blog posts, fostering engagement and discussion.​
+Webpack & Vite
 
-Tagging and Categorization: Organizing posts using tags and categories to enhance content discoverability.​
+.NET Development:
 
-CRUD Operations in the Blog Application:
+.NET Blazor UI (Razor components for frontend)
 
-CRUD operations form the backbone of the blog application's functionality:​
-Medium
+ASP.NET Core MVC
 
-Create: Users can compose new blog posts by providing a title, content, and selecting relevant categories or tags. This operation involves rendering a form to the user and saving the input data to the database upon submission.​
+Swagger for API testing
 
-Read: The application displays a list of all blog posts on the homepage, often with pagination for better navigation. Users can click on a post title to view the full content. This operation retrieves data from the database and presents it in a user-friendly format.​
+Entity Framework Core & Dapper (ORM)
 
-Update: Authenticated users have the ability to edit their own posts. This involves fetching the existing post data, displaying it in an editable form, and saving the updated information back to the database.​
+MS SQL for database management
 
-Delete: Users can remove their own posts when desired. This operation typically requires confirmation to prevent accidental deletions and involves removing the post record from the database.​
+🌟 My Projects
 
-Implementation Details:
+🚀 My Biggest Project to Date:
 
-Models: Define classes representing the data structure of your application, such as Post, Comment, Category, and User. These models correspond to database tables and are used by Entity Framework Core to interact with the database.​
+🔗 Interwebs Development
 
-Controllers: Handle incoming HTTP requests, process user input, and return appropriate responses. For example, a PostsController would manage actions related to creating, reading, updating, and deleting blog posts.​
+🛠️ Skills
 
-Views: Provide the user interface for the application. Views are responsible for rendering HTML pages that users interact with, such as forms for creating or editing posts and pages displaying lists of posts.
+Languages & Frameworks: C#, Java, JavaScript, PHP, HTML5, CSS3, React, Angular, .NET
 
-  - Model-View-Controller pattern
-  - Entity Framework Core with code-first migrations and LINQ queries
-  - ASP.NET Core Identity managing authentication and authorization with customizable user roles
+Databases: MySQL, MS SQL, Entity Framework Core, Dapper
+
+Web Design & Development: Figma, Bootstrap, Babel
+
+Version Control & Tools: Git, GitHub, Webpack, Vite
+
+Security & Authentication: ASP.NET Core Identity, Role-Based Authorization
+
+📌 Stay tuned for more projects and contributions as I continue to grow as a developer!
+
+📫 Let's Connect!
+
+💼 LinkedIn: Your LinkedIn Profile🌐 Portfolio: Your Portfolio (if available)
+
 
   
 
