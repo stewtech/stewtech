@@ -50,15 +50,6 @@ Version Control & Tools: Git, GitHub, Webpack, Vite
 
 Security & Authentication: ASP.NET Core Identity, Role-Based Authorization
 
-📌 Stay tuned for more projects and contributions as I continue to grow as a developer!
-
-📫 Let's Connect!
-
-💼 LinkedIn: 🌐 Portfolio: 
-
-
-  
-
 * My Biggest project to date: https://interwebsdevelopment.com/
 
 ### Skills
