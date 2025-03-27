@@ -12,8 +12,6 @@ Hi, 👋
 
 I started my coding journey as a software development student with a passion for learning everything I could about the programming world. Initially, I explored PHP, but soon developed a deep appreciation for C# and ASP.NET.
 
-For my capstone project in college, my team and I built a sub delivery website using C#, ASP.NET, .NET 6, and the MVVM design pattern. I took on the role of Project Manager and Developer, overseeing both technical and organizational aspects of the project.
-
 🔥 What I'm Learning
 
 I'm currently expanding my expertise in:
