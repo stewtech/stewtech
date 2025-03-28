@@ -16,13 +16,13 @@ I started my coding journey as a software development student with a passion for
 
 🛠️ Skills
 
-Languages & Frameworks: C#, .NET, Java, JavaScript, PHP, HTML5, CSS3, React, Angular, 
+Languages & Frameworks: C#, .NET, Java, JavaScript, PHP, React, Angular
 
 Databases: MySQL, MS SQL, Entity Framework Core, Dapper
 
-Web Design & Development: Figma, Bootstrap, Babel
+Web Design & Development: Figma, HTML5, CSS3, Bootstrap5
 
-Version Control & Tools: Git, GitHub, Webpack, Vite
+Version Control & Tools: Git, GitHub, Webpack, Vite, Babel
 
 Security & Authentication: ASP.NET Core Identity, Role-Based Authorization
 
